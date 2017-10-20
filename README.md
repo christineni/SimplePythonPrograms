@@ -1,4 +1,4 @@
-# PythonPrograms
+# Python Programs
 A compilation of some python programs I wrote in my intro to python class<br />
 
 Assignment 1: Ni_PizzaCalculator.py<br />
