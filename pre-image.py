@@ -1,5 +1,7 @@
 import hashlib, random, string, numpy as np
 
+# The compiler must be in Python 2.7 in order to run pre-image.py file.
+
 def original_string():
     ori = hashlib.md5(b'Today is cloudy') # The original string
     hex_ori = ori.hexdigest() # The hex of the original string
